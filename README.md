@@ -1,4 +1,5 @@
 # LATIHAN7DPBO2022
+Saya Ulfa Ashila Hafsari Mengerjakan LATIHAN7DPBO2022 Dalam Mata Kuliah DPBO untuk keberkahannya maka saya tidak melakukan kecurangan seperti yang telah di spesifikasikan. Aamiin...
 
 #### Spesifikasi
 Dalam program ini dapat menambahkan task, menghapus task, mengupdate status task. Terdapat navbar sort by yang berfungsi untuk mengurutkan tampilan data yang sesuai secara ascending
